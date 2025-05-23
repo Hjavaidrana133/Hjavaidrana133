@@ -1,8 +1,8 @@
 ![Bitmoji](https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png)
 
-<h1 align="center">Hi, I'm Haris Javed</h1>
+<h1 align="center">Hi, I'm Haris Javed. ✌️</h1>
 
-<h2 align="center">A FullStack Developer and ML Engineer.</h2>
+<h2 align="center">A FullStack Developer and ML Engineer. 💻</h2>
 
 ## Ask me about
 - Python
