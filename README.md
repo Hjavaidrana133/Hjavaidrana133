@@ -1,3 +1,5 @@
+![Bitmoji](https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png)
+
 # Hi, I'm Haris Javed
 
 A FullStack Developer and ML Engineer.
@@ -25,5 +27,5 @@ A FullStack Developer and ML Engineer.
 
 
 ```markdown
-![Bitmoji]([https://your-bitmoji-image-url](https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png))
+
 ```
