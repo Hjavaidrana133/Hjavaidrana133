@@ -5,7 +5,7 @@
 <h2 align="center">A FullStack Developer and ML Engineer. 💻</h2>
 
 ## Ask me about
-- Python
+- Javascript / React
 - Machine Learning
 - Nest.js
 - TypeScript
